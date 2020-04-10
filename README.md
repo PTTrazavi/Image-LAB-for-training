@@ -9,6 +9,8 @@
 此範例說明如何使用CNN來做更精準的Fashion MNIST圖片分類。  
 ### 4 rock_paper_scissors.ipynb
 此範例說明如何使用CNN來做剪刀、石頭、布的圖片分類。  
+### 5 CNN last layer cosine.ipynb
+此範例把CNN圖片分類softmax層的前一層當成特徵矩陣輸出，並做特徵比對。  
 ## References
 https://www.coursera.org/learn/introduction-tensorflow  
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow  
